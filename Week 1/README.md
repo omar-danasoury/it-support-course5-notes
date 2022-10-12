@@ -16,4 +16,5 @@ means to keep things hidden, and only people who are authorized are able to view
 a good example about this is using password protection.
 #### Integrity
 means to keep data protected and unchanged. Hashing is used to achieve this where the hash associated with the file is will change if any manipulation happened the file. 
-
+#### Availability
+means that the information we have should be accessable to the people that should have it. This includes being prepared by backing up data to prevent data loss or the system is down. 
