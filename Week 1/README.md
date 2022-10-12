@@ -14,5 +14,6 @@ the CIA Traid is a guiding model to design information security policies for the
 #### Confidentiality
 means to keep things hidden, and only people who are authorized are able to view or edit these things.  
 a good example about this is using password protection.
-
+#### Integrity
+means to keep data protected and unchanged. Hashing is used to achieve this where the hash associated with the file is will change if any manipulation happened the file. 
 
